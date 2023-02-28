@@ -1,3 +1,5 @@
+// Partner: Jemriz Advincula
+
 public class PayrollCalculator {
 
   //! ✅ Net Pay = ✅ Gross Pay - ✅Deductions
